@@ -1,0 +1,10 @@
+# Pensado para Google Colab (google.colab ya viene instalado ahí)
+pandas
+numpy
+requests
+gspread
+google-auth
+joblib
+scikit-learn   # para cargar el modelo Random Forest y el vectorizador TF-IDF
+nltk
+openpyxl       # lectura y escritura de los Excel de revisión
